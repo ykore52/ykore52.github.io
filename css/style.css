@@ -1,8 +1,9 @@
-body {
-    background-color: #bfd7ff;
-}
-
 .container {
     background-color: #ffffff;
     width: 720px !important;
+}
+
+h3 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.1em;
 }
