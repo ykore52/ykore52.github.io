@@ -1,3 +1,8 @@
+body {
+    background-color: #bfd7ff;
+}
+
 .container {
+    background-color: #ffffff;
     width: 720px !important;
 }
